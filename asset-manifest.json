@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/demo/static/css/main.f1158cce.css",
+    "main.js": "/demo/static/js/main.27aa63a9.js",
+    "static/js/787.37f06e28.chunk.js": "/demo/static/js/787.37f06e28.chunk.js",
+    "static/media/мцр3.png": "/demo/static/media/мцр3.e1f4c8a3d1b2261e91bb.png",
+    "static/media/мцр9.png": "/demo/static/media/мцр9.00ee5049e9ce689e560b.png",
+    "static/media/slide8.jpg": "/demo/static/media/slide8.02e22c1e89cd4df58647.jpg",
+    "static/media/gif5.gif": "/demo/static/media/gif5.8f1b87f06ce86e5340af.gif",
+    "static/media/gif4.gif": "/demo/static/media/gif4.a9ef35415f42f0d31969.gif",
+    "static/media/logo-copy2.png": "/demo/static/media/logo-copy2.6758d91cb2ab6791271b.png",
+    "static/media/rerich-gimalai.jpg": "/demo/static/media/rerich-gimalai.2c0b8b099f42e84af332.jpg",
+    "static/media/backkk.jpg": "/demo/static/media/backkk.e0720aea7ce61f8ae4df.jpg",
+    "static/media/slide12.jpg": "/demo/static/media/slide12.1f8d1ff8a1f1d9aa6025.jpg",
+    "static/media/virt-museum.gif": "/demo/static/media/virt-museum.4fd169d4003c7413ab2b.gif",
+    "index.html": "/demo/index.html",
+    "static/media/getFetch.cjs": "/demo/static/media/getFetch.40f37ddea2378391108f.cjs",
+    "main.f1158cce.css.map": "/demo/static/css/main.f1158cce.css.map",
+    "main.27aa63a9.js.map": "/demo/static/js/main.27aa63a9.js.map",
+    "787.37f06e28.chunk.js.map": "/demo/static/js/787.37f06e28.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1158cce.css",
+    "static/js/main.27aa63a9.js"
+  ]
+}
